@@ -1,0 +1,4 @@
+<h1>Welcom {{request.user}}</h1>
+    welcome {{request.user}}
+    <p>This is a  best website in this world</p>
+    <a href="/logout">Logout</a>
